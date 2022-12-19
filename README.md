@@ -1,7 +1,7 @@
 ### Lucas Coelho dos Santos
 
 - 🔭 I’m currently working on EISA
-- 🌱 I’m currently learning Java and JavaScript(TypeScript)
+- 🌱 I’m currently learning Java, Angular(TypeScript) and Cloud
 - 📫 How to reach me: lucas.goleiro1995@gmail.com or www.linkedin.com/in/lucas-coelho-dos-santos-1b5888109
 - ⚡ Hobbies: ⚽ 🏀 🎸 🎼 🎮 🏋️‍♀️ 🏕 🏖
 
